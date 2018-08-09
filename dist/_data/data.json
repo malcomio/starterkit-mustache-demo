@@ -3,6 +3,88 @@
         "name" : "HikeTracker",
         "url" : "http://hiketracker.com"
     },
+    "brandColors": [
+      {
+        "color": "#5C832F",
+        "title": "$color-brand-green"
+      },
+      {
+        "color": "#3b4a20",
+        "title": "$color-brand-green-dark"
+      }
+    ],
+    "neutralColors": [
+      {
+        "color": "#ffffff",
+        "title": "$color-white"
+      },
+      {
+        "color": "#f7f9f9",
+        "title": "$color-gray-02"
+      },
+      {
+        "color": "#d9d9d9",
+        "title": "$color-gray-15"
+      },
+      {
+        "color": "#a5a5a5",
+        "title": "$color-gray-35"
+      },
+      {
+        "color": "#808080",
+        "title": "$color-gray-50"
+      },
+      {
+        "color": "#595959",
+        "title": "$color-gray-65"
+      },
+      {
+        "color": "#444444",
+        "title": "$color-gray-73"
+      },
+      {
+        "color": "#222222",
+        "title": "$color-gray-87"
+      },
+      {
+        "color": "#000000",
+        "title": "$color-black"
+      },
+    ],
+    "utilityColors": [
+      {
+        "color": "#03804d",
+        "title": "$color-utility-positive"
+      },
+      {
+        "color": "#d4f3e6",
+        "title": "$color-utility-positive-subtle"
+      },
+      {
+        "color": "#a59b15",
+        "title": "$color-utility-caution"
+      },
+      {
+        "color": "#fffecf",
+        "title": "$color-utility-caution-subtle"
+      },
+      {
+        "color": "#b12a0b",
+        "title": "$color-utility-negative"
+      },
+      {
+        "color": "#fdded8",
+        "title": "$color-utility-negative-subtle"
+      },
+      {
+        "color": "#0192d0",
+        "title": "$color-utility-neutral"
+      },
+      {
+        "color": "#d3f2ff",
+        "title": "$color-utility-neutral-subtle"
+      }
+    ],
     "title" : "Pattern Lab",
     "pageTitle": "Page Title",
     "htmlClass": "pl",
